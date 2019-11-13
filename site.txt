@@ -29,6 +29,7 @@
  </div>
  <div>
  <div><b>Lisa M. McEwen</b></div><br>
+ <p><b>lmcewen at uvic dot ca</b><br>
  <p>School of Health Information Science<br>
  University of Victoria<br>
  Victoria, BC<br>
